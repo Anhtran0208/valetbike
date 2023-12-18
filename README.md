@@ -30,6 +30,10 @@ It requires users to have an active membership plan before renting a bike. If th
 ### Edit personal information 
 <img width="944" alt="image" src="https://github.com/Anhtran0208/valetbike/assets/66905335/ff05a195-8072-42eb-a6fb-1ef2ca61b7fd">
 
+## Demo link 
+Walkthrough the web app 
+Check it out: https://youtu.be/b6C9Tvq2otI
+
 
 
 
